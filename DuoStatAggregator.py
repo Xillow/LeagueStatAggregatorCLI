@@ -45,7 +45,7 @@ SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 
 
 # The api key for riot
-LOLWATCHER = LolWatcher(secrets.RIOT_API_KEY)#APIKEY
+LOLWATCHER = LolWatcher(#APIKEY)
 
 
 def main():
